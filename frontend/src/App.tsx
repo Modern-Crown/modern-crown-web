@@ -1,8 +1,15 @@
 import React from 'react';
 //import logo from './logo.svg';
+//import logo from './logo.svg';
 import './App.css';
 
 function App() {
+  const openMenu = () => {
+    document.querySelector (".sidebar")?.classList.add("open");
+  }
+  const closeMenu = () => {
+    document.querySelector(".sidebar")?.classList.remove("open");
+  }
   const openMenu = () => {
     document.querySelector (".sidebar")?.classList.add("open");
   }
