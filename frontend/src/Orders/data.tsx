@@ -16,7 +16,7 @@ export default {
         createdAt: '02/20/2021',
         totalPrice: 42.90,
         user: {
-            name: 'TPedro'
+            name: 'Pedro'
         },
         isPaid: true,
         paidAt: '02/14/2021',
