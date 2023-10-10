@@ -9,8 +9,7 @@ function OrderDetail() {
         <div>
             <h3>order name: {order?.user.name}</h3>
         </div>
-    )
-
+    );
 }
 
 export default OrderDetail;
