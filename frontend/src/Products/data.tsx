@@ -16,4 +16,4 @@ export default {
         rating :4.5,
         numberOfReviews:10,
     }]
-]
+}
